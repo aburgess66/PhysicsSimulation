@@ -1,7 +1,7 @@
 from vpython import *
 from tkinter import *
 
-
+print("")
 def gforce(p1,p2):
     # Calculate the gravitational force exerted on p1 by p2.
     G = 1 
